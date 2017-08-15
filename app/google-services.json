@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "103096072008",
+    "firebase_url": "https://p13-c302.firebaseio.com",
+    "project_id": "p13-c302",
+    "storage_bucket": "p13-c302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103096072008:android:0dd38c0fc3f27330",
+        "android_client_info": {
+          "package_name": "com.example.a15017274.dmsdchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103096072008-f6lbkhlavhh59knvclo4f4mpdj116ovl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMCM95aFrRjwynkprKNRtBF_7N2Xpzu_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
